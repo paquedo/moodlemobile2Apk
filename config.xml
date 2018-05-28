@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.redacademyiberia"
         versionCode = "20230"
-        version   = "3.4.2">
-    <name>Moodle Mobile</name>
+        version   = "1.0.0">
+    <name>Red Academy Iberia</name>
 
     <description>
-        Moodle Mobile official app
+        Red Academy Iberia App
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>3.4.2</string>
+        <string>1.0.0</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
